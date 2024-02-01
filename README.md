@@ -1,57 +1,69 @@
-# my_resume
+#my_resume
+                                                                        Ahmed Esmail Ibrahim
+                                                     Egypt, Alexandria | 01001888197 | esmailahmed511@gmail.com
+                                                             www.linkedin.com/in/ahmed-ismail1 | GitHub
+                                                                       MOBILE APPS FLUTTER DEVELOPER
+I am a dedicated and results-driven Flutter Developer with a passion for crafting high-quality, innovative, and performance-oriented mobile applications. Adept at collaborating with cross-functional 
+teams to analyze user requirements and design solutions that align with business goals. Proficient in leveraging cutting-edge technologies and best practices to deliver robust and scalable applications.
 
-Professional Summary
+CORE PROFICIENCIES 
 
-I am a Flutter developer. I love programming because everyday I am learning new things. one of my best talents is that I am a fast learner, and I can learn any tech in a short time and put it into action. I want to establish myself as a Flutter Developer in a well established company, and help make peoples' lives easier by creating beautiful and Robust Apps with Flutter.
+o	Flutter
+o	Dart
+o	Firebase 
+o	SQLite
+o	Shared Preferences
+o	State management (Riverpod).
+o	Dealing with Restful APIs
+o	Convert UI designs into code
+o	Cubit State management
+o	Data Structures and Algorithms 	o	Problem Solving
+o	Git and GitHub
+o	Debugging
+o	Android Development Background
+o	Java
+o	Kotlin
 
-Education
 
-Bachelor Degree in Languages and Translation 
-University of Al-Azhar, Cairo, cairo, Egypt	July 2021.
-
+ 
 Courses
-⦁	 cs50 introduction to computer science-Harvard university.
-⦁	 The complete 2021 Flutter with Dart boot camp by angela yu.
-.  Flutter & Dart - The Complete Guide [2021 Edition] by Maximilian Schwarzmüller
-⦁	 dart tutorial, basics and fundamentals for Flutter.
-⦁	 Developing Android Apps with Kotlin from Google.
-⦁	 kotlin boot camp for programmers - Udacity - from Google.
-⦁	 Java -functional programming - Udacity - from Google.
-⦁	 Oriented programming in Java - Udacity - from Google.
-⦁	Data structures and algorithms course.
+
+•	Flutter & Dart   The Complete Guide [2022 Edition] by Abdullah Mansour.
+•	Flutter & Dart   The Complete Guide [2023 Edition] by Max.
+•	 Dart tutorial, basics and fundamentals for Flutter.
+•	 The complete 2021 Flutter with Dart boot camp by Angela Yu.
+•	Data structures and algorithms course.
+•	 Developing Android Apps with Kotlin from Google.
+•	 Kotlin boot camp for programmers - Udacity - from Google.
+•	 Java -functional programming - Udacity - from Google.
+•	 Oriented programming in Java - Udacity - from Google.
+•	CS50 introduction to computer science-Harvard university.
+
 
 Projects
+ 
+1-	Market: a full-fledged e-commerce application named Market, enabling users to seamlessly browse, purchase, and manage their shopping experience.
+Key Features:
+- User Authentication: Secure login/signup processes with account information management.
+     - Product Navigation: Browse entire product catalog or filter by categories.
+- Wishlist and Cart Functionality: Save desired items for later and manage cart contents (quantity adjustments, removal).
+- Order Processing: Proceed to checkout, apply promo codes if applicable, choose/create shipping addresses, and integrate Stripe for secure payments.
+- Order Management: View past orders, access order details, and cancel unwanted orders.
+- User Profile: Update personal and password information, alongside preferences for dark mode and language (English/Arabic).
+- Localization: Seamless integration of English and Arabic language support.
+- Dynamic Data Loading: App restarts upon language change to ensure localized data is retrieved.
+Github Link: AhmedEsmail111/market (github.com)
 
-1- Chatty: a chat app like messenger, whatsapp etc. It contains all the features required in a chat app. It is still ongoing project but 65 % of it is done.
-Technologies used: [Dart,FlutterSDK,Firebase,Firebase Auth,Firebase Storage, Firebase Fire Store]. 
-Github: https://github.com/AhmedEsmail111/chatty-flutter
+2-	Kotoby: A dynamic and user-friendly mobile application designed to facilitate the buying and selling of used books. The app provides a seamless platform for users to create accounts, post details about the books they want to sell, engage in conversations with potential buyers or sellers, and explore a diverse range of available books, add to favorites.
+  
+Technologies Used:
+Flutter , Dart , Restful Api, Authentication, Pagination, Dio Package, Internet Connectivity Checker, Connectivity Plus, Cubit State Management, Localizations .
+Github Link: AhmedEsmail111/kotoby (github.com)
 
-2- doMe: It is a ToDo list app to help users manage their tasks and their life. It is also ongoing project. I am aiming to make it like Google keep.
-Technologies used: [Dart,FlutterSDK,Provider Package,Sqlite database].
-Github: https://github.com/AhmedEsmail111/do_me
 
-3- Weather Zone: It is a Weather App to help users get weather Info about their location or any place on the planet.
-Technologies used:{Dart,FlutterSDK,get package, GeoLocator Package, Rest Api]
-GitHub:  https://github.com/AhmedEsmail111/weather_zone
+EDUCATION | CREDENTIALS
 
-4- Expenses Tracker: It is an app to help users save money by tracking their expenses.
-Technologies used: [Dart,FlutterSDK,Provider Package, Sqlite database].
-GitHub: https://github.com/AhmedEsmail111/expenses_tracker
+  Bachelor Degree in Languages and Translation. Al-azhar University (2017-2021) .
+  Grade: Good 
+  Languages: Arabic, English, German.
 
-Skills
-
-⦁	Programming Langueges: Dart,Kotlin,Java	⦁	Flutter - Android SDK - Flutter SDK	⦁	Firebase - Sqlite
-⦁	Rest Api	⦁	Debugging	⦁	Git&Github
-⦁	Data Structure and Algorithms
-Soft Skills
-⦁	Self-learner.
-⦁	Problem solving.
-⦁	Self-motivation.
-⦁	Time management.
-⦁	Communication skills.
-
-Languages
-
-⦁	Arabic: Native.
-⦁	English: Fluent.
-⦁	German: intermediate.
